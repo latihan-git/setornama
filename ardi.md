@@ -1,0 +1,2 @@
+nama : ardi  
+hobby: makan  
