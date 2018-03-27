@@ -1,0 +1,2 @@
+nama: bagoes
+hobi: makan
