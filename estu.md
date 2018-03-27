@@ -1,0 +1,2 @@
+nama: estu
+hoby: piknik
