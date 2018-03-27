@@ -1,0 +1,2 @@
+# setornama
+ini setor nama
