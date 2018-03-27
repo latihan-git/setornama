@@ -1,0 +1,2 @@
+nama : ijlik
+hobi : ngijlik
